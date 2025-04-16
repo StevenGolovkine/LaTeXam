@@ -3,6 +3,8 @@
 
 # LaTeXam
 
+![License](https://img/shields.io/badge/License-BSD--3--Claude-blue)
+
 This project aims to help me generate and correct MCQ.
 
 ## Description of the functionalities
@@ -30,4 +32,6 @@ The student answer sheets will be collected and scanned. The script should:
 
 Loop for each student. Return a file with student name, id and grade.
 
+## License
 
+The repository is licensed under the BSD-3-Clause license. A copy of the [license](https://github.com/StevenGolovkine/LaTeXam/blob/master/LICENSE) can be found along with the code.
