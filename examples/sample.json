@@ -1,0 +1,22 @@
+{
+  "lang": "EN",
+  "module": "STT-1000",
+  "professor": "Steven",
+  "year": 2025,
+  "session": "Winter",
+  "number_students": 5,
+  "number_questions": 2,
+  "active": true,
+  "questionnaire": [
+    {
+      "question": "What is the results of $1 + 1$?",
+      "answer": "$2$",
+      "distractors": [ "$3$", "$4$", "$5$" ]
+    },
+    {
+      "question": "What is the purpose of the $t$-test?",
+      "answer": "Test",
+      "distractors": [ "Compare", "Compute", "Find" ]
+    },
+  ]
+}
