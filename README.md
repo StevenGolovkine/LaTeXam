@@ -3,7 +3,7 @@
 
 # LaTeXam
 
-![License](https://img/shields.io/badge/License-BSD--3--Claude-blue)
+![License](https://img.shields.io/badge/License-BSD--3--Claude-blue)
 
 This project aims to help me generate and correct MCQ.
 
