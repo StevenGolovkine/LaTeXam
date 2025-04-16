@@ -1,3 +1,6 @@
+![LaTeXam](./assets/logo.png)
+
+
 # LaTeXam
 
 This project aims to help me generate and correct MCQ.
@@ -26,4 +29,5 @@ The student answer sheets will be collected and scanned. The script should:
 4. Compute the grade.
 
 Loop for each student. Return a file with student name, id and grade.
+
 

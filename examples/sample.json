@@ -1,5 +1,5 @@
 {
-  "lang": "EN",
+  "lang": "english",
   "module": "STT-1000",
   "professor": "Steven",
   "year": 2025,
@@ -17,6 +17,6 @@
       "question": "What is the purpose of the $t$-test?",
       "answer": "Test",
       "distractors": [ "Compare", "Compute", "Find" ]
-    },
+    }
   ]
 }
